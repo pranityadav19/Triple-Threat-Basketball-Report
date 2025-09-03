@@ -26,7 +26,7 @@ A data analysis project exploring the relationship between **three-point shootin
   - Boxplots to compare wins between top-15 and non-top-15 3PT% teams.  
   - Regression model using predictors:  
     - Top 15 in 3PT% (categorical)  
-    - Three-pointers made per game (numeric):contentReference[oaicite:2]{index=2}
+    - Three-pointers made per game (numeric)
 
 ---
 
